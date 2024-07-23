@@ -1,0 +1,33 @@
+<!-- sp:pagelayer/pl_post_props {"post_title":"Footer","post_status":"publish","post_date":"2021-10-19 09:19:34","post_author":"1","post_name":"footer","post_excerpt":"","post_password":"","featured_image":"","comment_status":"","ping_status":"","post_sticky":"","post_parent":0,"menu_order":0,"post_category":"","post_tags":"","pagelayer-id":"iz52018"} /-->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#171717ff","ele_padding":["30px","0px","40px","0px"],"pagelayer-id":"ed91855"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"6","pagelayer-id":"2le9660"} -->
+<!-- sp:pagelayer/pl_wp_title {"site_name":"Ecohost","site_title_state":"normal","text-align":"left","title_color":"#673ab7ff","site_title_style":"Nunito,30,,600,,,Solid,,,,","title_padding":"0,0,0,0","pagelayer-id":"ovx1946"} /-->
+<!-- sp:pagelayer/pl_text {"ele_css":"{{element}} .pagelayer-text-holder p{font-family:poppins; color:#ffffff; font-weight:500; line-height:2;}","text":"\u003cp style=\u0022text-align: left; color:#fff;\u0022\u003eThe point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Magnam, consequatur quas ratione eaque praesentium eligendi voluptatum at harum mollitia rem veritatis accusantium pariatur.\u003c\/p\u003e\u003cp\u003e\u003c\/p\u003e\u003cp\u003e\u003c\/p\u003e","pagelayer-id":"qk24186"} --><p style="text-align: left; color:#fff;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Magnam, consequatur quas ratione eaque praesentium eligendi voluptatum at harum mollitia rem veritatis accusantium pariatur.</p><p></p><p></p><!-- /sp:pagelayer/pl_text -->
+<!-- sp:pagelayer/pl_social_grp {"align":"left","group_layout":"pagelayer-btn-grp-horizontal","icon_spacing":"3","icon_size":"14","color_scheme":"","icon_color":"#ffffffff","social_hover_delay":"400","icon_color_hover":"#ffffff","bg_shape":"pagelayer-social-shape-circle","bg_size":"10","icon_bg_color":"#673ab7ff","icon_bg_color_hover":"#651fffff","social_hover":"hover","anim_hover":"grow","pagelayer-id":"atg1943"} -->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-facebook-f","social_url":"https:\/\/facebook.com\/sitepad","pagelayer-id":"j322520"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-twitter","social_url":"https:\/\/twitter.com\/sitepad","pagelayer-id":"9gw9181"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-instagram","social_url":"https:\/\/instagram.com\/sitepad","pagelayer-id":"lrm3850"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-linkedin-in","social_url":"https:\/\/linkedin.com\/sitepad","pagelayer-id":"jad4915"} /-->
+<!-- /sp:pagelayer/pl_social_grp -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"2","pagelayer-id":"avp3735"} -->
+<!-- sp:pagelayer/pl_heading {"heading_state":"normal","color":"","heading_typo":["","","","","","","Solid","","","",""],"text":"\u003ch5\u003eQuick Links\u003c\/h5\u003e","pagelayer-id":"h784579"} --><h5>Quick Links</h5><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_list {"list_type":"none","spacing":"18","list_text_state":"normal","item_indent":"0","list_icon_state":"normal","icon_color":"#0986c0","icon_border_type":"","icon_border_color":"#cbd2dc78","icon_border_width":"3","list_color":"#ffffffff","list_typo":["Poppins","14","","600","","","Solid","","","",""],"ele_margin":"10px,0px,0px,0px","pagelayer-id":"0ex3558"} -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"","item":"Home","item_url":"||link_id|page|home||","pagelayer-id":"4cg7323"} -->Home<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"","item":"About Us","item_url":"||link_id|page|about||","pagelayer-id":"eni6421"} -->About Us<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"","item":"Services","item_url":"#","pagelayer-id":"3qt1585"} -->Services<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"","item":"Contact Us","item_url":"||link_id|page|contact||","pagelayer-id":"14p1298"} -->Contact Us<!-- /sp:pagelayer/pl_list_item -->
+<!-- /sp:pagelayer/pl_list -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"4","pagelayer-id":"hro5806"} -->
+<!-- sp:pagelayer/pl_heading {"heading_state":"normal","color":"","heading_typo":["","","","","","","Solid","","","",""],"text":"\u003ch5\u003eGet In Touch\u003c\/h5\u003e","pagelayer-id":"ovf8014"} --><h5>Get In Touch</h5><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_address {"icon":"","color":"#ffffffff","typography":"Poppins,14,,500,,,Solid,1.4,,,","ele_margin":"10px,0px,0px,0px","pagelayer-id":"jl34827"} /-->
+<!-- sp:pagelayer/pl_email {"icon":"","color":"#ffffffff","typography":"Poppins,14,,,,,Solid,,,,","ele_margin":"5px,0px,0px,0px","linked":"true","pagelayer-id":"dws9789"} /-->
+<!-- sp:pagelayer/pl_phone {"icon":"","color":"#ffffffff","typography":"Poppins,14,,500,,,Solid,,,,","ele_margin":"10px,0px,0px,0px","linked":"true","pagelayer-id":"kuo2977"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#673ab7ff","pagelayer-id":"mft3634"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","pagelayer-id":"k8b3047"} -->
+<!-- sp:pagelayer/pl_copyright {"color":"#ffffffff","typography":"Poppins,16,,500,,,Solid,,,,","ele_padding":"10px,0px,10px,0px","align":"left","copyright_text":"\u00a9 2021 Careerist Theme. All right Reserved","pagelayer-id":"76m3623"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
